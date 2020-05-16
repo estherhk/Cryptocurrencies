@@ -35,4 +35,4 @@ The hvplot table displays which class output is connected to the original datase
 MinMaxScaler was used to fit and transform the dataframe to display the different clusters in a 2D scatter plot(hvplot.scatter()) with X = TotalCoinsMined and Y = TotalCoinsSupply.
 
 ## Investment Recommendations
-Based on the 2D scatter plot,  Class 3 that includes "Waves" and , would not be a good investment due to low TotalCoinsMined and TotalCoinsSupply.  It would also be a recommendation to remove outliers as they are products built on block chain, but not cryptocurrencies.
+Based on the 2D scatter plot,  Class 3 that includes "Waves" and "Acute Angle Cloud", would not be a good investment due to low TotalCoinsMined and TotalCoinsSupply.  It would also be a recommendation to remove outliers as they are products built on block chain, but not cryptocurrencies.
